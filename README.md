@@ -51,7 +51,3 @@
 <p>
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshatjain-official&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
-
-<p>
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=akshatjain-official" alt="GitHub Streak" width="400" />
-</p>
