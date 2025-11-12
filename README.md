@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=akshatjain-official&label=Profile%20views&color=0e75b6&style=flat" alt="akshatjain-official" />
 </p>
 
-- 🌱 Currently working with **Java, Spring Boot, SAP CAP, SAP ABAP and Angular**
+- 🌱 Currently working with **Java, Spring Boot, SAP CAP, Nodejs and Angular**
 - 💼 Experience with **Enterprise Applications, SAP CAP, and Backend Services**
 - ⚡ Fun fact: **I love simplifying complex systems into scalable solutions**
 
