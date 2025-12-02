@@ -51,3 +51,8 @@
 <p>
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshatjain-official&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
+
+
+<p>
+  &nbsp;<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=akshatjain-official&theme=chartreuse-dark" alt="GitHub Stats" />
+</p>
