@@ -45,11 +45,11 @@
 ### 📊 GitHub Stats
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshatjain-official&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img align="left" src="https://github-readme-stats.shion.dev/api/top-langs?username=akshatjain-official&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
 <p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshatjain-official&show_icons=true&locale=en" alt="GitHub Stats" />
+  &nbsp;<img align="center" src="https://github-readme-stats.shion.dev/api?username=akshatjain-official&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
 
